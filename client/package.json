@@ -1,8 +1,8 @@
 {
-  "name": "client",
+  "name": "first_vuejs_app",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "andy you",
+  "author": "yixingyou <yixingyou@hotmail.com>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",

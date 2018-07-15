@@ -1,4 +1,4 @@
-# client
+# first_vuejs_app
 
 > A Vue.js project
 
